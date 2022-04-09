@@ -4,10 +4,10 @@
 
 
 # <p align="center">| BACK END DEVELOPER |  👋</p>
-<p align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32px" alt="php">    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32px" alt="javascript">  </p>
+<p align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32px" alt="php">  </p>
 # Hi, I'm Syahrizal Ali Sadikin. I live in Tangerang, Jawa Barat, Indonesia. I'm Web Developer or back end developer with PHP (Laravel). You can see my portfolio in this site
 
-
+<!--    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32px" alt="javascript">  -->
 # Github Performance Overall
 <!-- refer this: https://github.com/syahrizal-alisadikin -->
 ![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
