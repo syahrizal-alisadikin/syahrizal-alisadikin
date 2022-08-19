@@ -7,6 +7,11 @@
 <p align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32px" alt="php">  </p>
 # Hi, I'm Syahrizal Ali Sadikin. I live in Tangerang, Jawa Barat, Indonesia. I'm Web Developer or back end developer with PHP (Laravel). You can see my portfolio in this site
 
+### ☕ Temukan saya di media sosial
+- LinkedIn: <a href = "https://www.linkedin.com/in/syahrizal-alisadikin/">Syahrizal Ali Sadikin</a>
+- Website: <a href = "https://syahrizal.netlify.app/">Syahrizal Ali Sadikin</a>
+- Santri Koding: <a href = "https://santrikoding.com/profile/@izal">@izal</a>
+
 <!--    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32px" alt="javascript">  -->
 # Github Performance Overall
 <!-- refer this: https://github.com/syahrizal-alisadikin -->
@@ -24,10 +29,7 @@
 
 <!--
 **syahrizal-alisadikin/syahrizal-alisadikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### ☕ Temukan saya di media sosial
-- LinkedIn: <a href = "https://www.linkedin.com/in/syahrizal-alisadikin/">Syahrizal Ali Sadikin</a>
-- Website: <a href = "https://syahrizal.netlify.app/">Syahrizal Ali Sadikin</a>
-- Santri Koding: <a href = "https://santrikoding.com/profile/@izal">@izal</a>
+
 
 Here are some ideas to get you started:
 
