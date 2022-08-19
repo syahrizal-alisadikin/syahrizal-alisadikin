@@ -24,6 +24,10 @@
 
 <!--
 **syahrizal-alisadikin/syahrizal-alisadikin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☕ Temukan saya di media sosial
+- LinkedIn: <a href = "https://www.linkedin.com/in/syahrizal-alisadikin/">Syahrizal Ali Sadikin</a>
+- Website: <a href = "https://syahrizal.netlify.app/">Syahrizal Ali Sadikin</a>
+- Santri Koding: <a href = "https://santrikoding.com/profile/@izal">@izal</a>
 
 Here are some ideas to get you started:
 
