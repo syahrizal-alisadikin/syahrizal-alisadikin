@@ -3,20 +3,22 @@
 -->
 
 
-# <p align="center">| BACK END DEVELOPER |  👋</p>
-<p align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32px" alt="php">  </p>
-# Hi, I'm Syahrizal Ali Sadikin. I live in Tangerang, Jawa Barat, Indonesia. I'm Web Developer or back end developer with PHP (Laravel). You can see my portfolio in this site
+<center>
+  <a href="htpps://ismail9k.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=syahrizal-alisadikin&theme=vue-dark&show_icons=true&count_private=true" alt="performance" />
+  </a>
+
+  <a href="https://ismail9k.com">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizal-alisadikin&theme=vue-dark&layout=compact" alt="Top Langs" />
+  </a>
+  
+ 
+</cetner>
 
 ### ☕ Temukan saya di media sosial
 - LinkedIn: <a href = "https://www.linkedin.com/in/syahrizal-alisadikin/">Syahrizal Ali Sadikin</a>
 - Website: <a href = "https://syahrizal.netlify.app/">Syahrizal Ali Sadikin</a>
 - Santri Koding: <a href = "https://santrikoding.com/profile/@izal">@izal</a>
-
-<!--    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32px" alt="javascript">  -->
-# Github Performance Overall
-<!-- refer this: https://github.com/syahrizal-alisadikin -->
-![mayankchaudhary26 snake gif](https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.svg)      
-     
 - 📫 Please email alisadikinsyahrizal@gmail.com to Hire me.
 
 
