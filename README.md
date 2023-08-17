@@ -5,12 +5,13 @@
 
 <center>
   <a href="htpps://ismail9k.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=syahrizal-alisadikin&theme=vue-dark&show_icons=true&count_private=true" alt="performance" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizal-alisadikin&layout=compact" alt="performance" />
   </a>
 
   <a href="https://ismail9k.com">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizal-alisadikin&theme=vue-dark&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=syahrizal-alisadikin&hide=contribs,prs" alt="Top Langs" />
   </a>
+  
   
  
 </cetner>
