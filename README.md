@@ -17,8 +17,8 @@
 </cetner>
 
 ### ☕ Temukan saya di media sosial
-- LinkedIn: <a href = "https://www.linkedin.com/in/syahrizal-alisadikin/">Syahrizal Ali Sadikin</a>
-- Website: <a href = "https://syahrizal.netlify.app/">Syahrizal Ali Sadikin</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/syahrizal-alisadikin/">Syahrizal As</a>
+- Website: <a href = "https://syahrizaldev.netlify.app/">Syahrizal As</a>
 - Santri Koding: <a href = "https://santrikoding.com/profile/@izal">@izal</a>
 - 📫 Please email alisadikinsyahrizal@gmail.com to Hire me.
 
